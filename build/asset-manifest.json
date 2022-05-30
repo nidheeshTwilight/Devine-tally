@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.076a4cba.css",
+    "main.js": "/static/js/main.c4e6dedc.js",
+    "static/media/Gallery.jpg": "/static/media/Gallery.6a04bafc473fac97651b.jpg",
+    "static/media/bg pixc.jpg": "/static/media/bg pixc.865a43779b812e8672db.jpg",
+    "static/media/Glassmorphism Modern Desktop Wallpaper Organizer (1).png": "/static/media/Glassmorphism Modern Desktop Wallpaper Organizer (1).bcc63f65b76cc791a6a4.png",
+    "static/media/temsid.jpg": "/static/media/temsid.1ce466411abb0e23a168.jpg",
+    "static/media/Temple.png": "/static/media/Temple.5fef766a975181431273.png",
+    "static/media/Vinayak.jpg": "/static/media/Vinayak.193e47fd9af248405be9.jpg",
+    "static/media/Devine Tally logo.png": "/static/media/Devine Tally logo.1f93dccecd80022ab4de.png",
+    "index.html": "/index.html",
+    "main.076a4cba.css.map": "/static/css/main.076a4cba.css.map",
+    "main.c4e6dedc.js.map": "/static/js/main.c4e6dedc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.076a4cba.css",
+    "static/js/main.c4e6dedc.js"
+  ]
+}
